@@ -1,0 +1,5 @@
+this assignment is for week 2 
+File handling is very important in python.
+we are writing this file in writing mode and then we are reading this file 
+there are some another mode also like reading append w+ r+ a+
+This is the fifth line in the file.

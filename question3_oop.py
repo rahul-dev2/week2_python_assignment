@@ -1,6 +1,8 @@
 class Student:
-     # first we define three methods for storing information
+    #1. we have created a class student 
 
+     #2 whenever any object for eg student1 created this __in__it constructor willbe intitiated 
+     #3 we have passed three arguments name roll_number marks
      
     def __init__(self, name, roll_number, marks):
         self.name = name

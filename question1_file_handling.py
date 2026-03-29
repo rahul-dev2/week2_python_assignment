@@ -1,6 +1,6 @@
 # Step 1  Create file 
 file = open("data.txt", "w")
-# step 2 write five lines 
+# step 2 writing at least five lines in the txt files
 file.write("this assignment is for week 2 \n")
 file.write("File handling is very important in python.\n")
 file.write("we are writing this file in writing mode and then we are reading this file \n")
